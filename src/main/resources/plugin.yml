@@ -1,6 +1,6 @@
 name: AceOfSpadesMiniGame
 version: 0.3
-main: pl.grzegorz2047.aceofspadesminigame
+main: pl.grzegorz2047.aceofspadesminigame.Main
 commands:
     team:
         description: wybor druzyny 1-2
