@@ -1,0 +1,3 @@
+aos.team
+aos.setspawn
+aos.usegun

@@ -1,0 +1,15 @@
+Sprawdzanie ile graczy jest w teamie
+Moze kolekowanie vip
+Rozpoczecie rozgrywki
+Odliczanie
+Dawanie blaze roda przy rozpoczeciu rozgrywki
+Zrobienie prostego API, bo tak lubie :)
+Ulepszenie komend, warunkow itd.
+Skompletowanie klasy Game
+************************************ INFORMACJE ***************************************
+			GRACZ NIE MOZE STRZELAC W BOK BLOKOW JEDYNIE W JEGO WIERZCHOLEK
+	
+										.
+										|
+										V
+										T

@@ -1,0 +1,10 @@
+name: AceOfSpadesMiniGame
+version: 0.2
+main: pl.grzegorz2047.aos.Main
+commands:
+    team:
+        description: wybor druzyny 1-2
+    setteamspawn:
+        description: ustala spawn druzyny 1-2
+    aos:
+        description: Komendy pluginu aoe
